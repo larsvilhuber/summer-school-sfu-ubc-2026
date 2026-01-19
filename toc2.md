@@ -1,4 +1,4 @@
-- 9:00 [Discussion](https://larsvilhuber.github.io/summer-school-qicss-2025/presentation/day2.html) of the "Very imperfect example"
+- 9:00 [Discussion](/presentation/day2.html) of the "Very imperfect example"
 - 9:30 Documenting it all: [How to correctly document a replication package](https://larsvilhuber.github.io/readme-presentation/) (and why!)
 - 10:30 Break
 - 10:45 [How to run Stata!](presentation/presentation.html#how-to-run-stata) or R! (reproducibly)

@@ -2,8 +2,8 @@
 title: "Reproducibility in research – Ensuring the transparency and credibility of your work"
 author: 
   - "Lars Vilhuber"
-  - "Michael Stepner"
-date: May 26 2025
+  - "Marie Connolly"
+date: May 28 2026
 ---
 
 ```{r config,include=FALSE}
@@ -64,16 +64,16 @@ if (!dir.exists(here::here("data"))) {
 
 ## Details
 
-- May 26 (1:00 p.m. to 4:00 p.m.) 
-- May 27, 2025 (9:00 a.m. to 4:00 p.m.)
+- Part 1: May 28, 2026 (9:00  to 12:00 ) 
+- Part 2: May 28, 2026 (13:00 to 15:00 )
 
-Location: *DS-1520, [pavillon DS, UQAM](https://plancampus.uqam.ca/#pavillon/ds), 320, rue Sainte-Catherine Est, Montreal, Québec* (see details on last tab)
+Location: TBD
 
-Registration required, see [registration link](https://ecommerce.dexero.com/shopping/ciqss/ciqss/event/school_repro25/Detail.view).
+Registration required, see [registration link] (coming).
 
-*Sponsored by [QICSS](https://ciqss.org)*, part of the [Canadian Economics Association meetings pre-program](https://www.economics.ca/cea2025).
+*Sponsored by [Sloan Foundation]()*, part of the [Canadian Economics Association meetings pre-program](https://www.economics.ca/cea2026).
 
-<img height="50px" src="https://ciqss.org/wp-content/uploads/2024/02/logo-ciqss-temp-1024x407.webp" alt="QICSS logo" />
+
 <img height="50px" src="https://www.economics.ca/resources/Pictures/full_logo_with_wordmark_II.svg" alt="CEA logo" />
 
 ## Follow along
@@ -103,9 +103,9 @@ plot(code)
 
 
 
-## Survey for Day 2
+## Survey for Part 2
 
-For part of Day 2, we have a choice:
+For Part 2, we have a choice:
 
 - [Reproducibility when some data are confidential](https://labordynamicsinstitute.github.io/reproducibility-confidential/) 
 - [Preserving raw survey data](presentation/day2.html#preserving-raw-survey-data)
@@ -173,8 +173,7 @@ if (nrow(data2) > 0) {
 
 ## Map
 
-![UQAM Pavillon DS](https://plancampus.uqam.ca/fichiers/images/cartes_pavillons/DS.gif)
-
+Coming.
 
 
 

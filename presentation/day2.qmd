@@ -2,8 +2,8 @@
 title: "Reproducibility in research – Day 2"
 author: 
   - "Lars Vilhuber"
-  - "Michael Stepner"
-date: May 27 2025
+  - "Marie Connolly"
+date: May 27 2026
 title-slide-attributes:
   data-background-image: "images/lake-summer.jpg" 
   data-background-size: "auto 50%"

@@ -637,5 +637,5 @@ For all of you: <https://borealisdata.ca/>
 ## A tutorial of sorts
 
 - Demo Dataverse for Lars <https://demo.dataverse.org/dataverse/larstest>
-- [Code for uploading automatically](https://github.com/larsvilhuber/summer-school-qicss-2025)
+- [Code for uploading automatically](https://github.com/larsvilhuber/summer-school-qicss-2026)
 - Manually: `python ../dataverse-uploader/dataverse.py $DATAVERSE_TOKEN $DATAVERSE_SERVER $DATAVERSE_DATASET_DOI . -d data`

@@ -2,8 +2,8 @@
 title: "Reproducibility in research – Ensuring the transparency and credibility of your work"
 author: 
   - "Lars Vilhuber"
-  - "Michael Stepner"
-date: May 26 2025
+  - "Marie Connolly"
+date: May 26 2026
 title-slide-attributes:
   data-background-image: "images/lake-winter.jpg" 
   data-background-size: "auto 50%"
@@ -106,7 +106,7 @@ WEBSITE_SHORT <- paste0(GITHUB_REPOSITORY_PARTS[1], ".github.io/", GITHUB_REPOSI
 
 ## Day 1: How to not to organize your work
 
-[A tale of ineffective technical collaboration](https://utoronto-my.sharepoint.com/:p:/g/personal/michael_stepner_utoronto_ca/EQw-DkVwVvRKsFqMDR2poHYBzUCa4HeG02YJYB6fLqiUnA?e=EdbCxS)
+[A tale of ineffective technical collaboration](https://uqam-my.sharepoint.com/:p:/g/personal/marie_connolly_uqam_ca/EQw-DkVwVvRKsFqMDR2poHYBzUCa4HeG02YJYB6fLqiUnA?e=EdbCxS)
 
 ## Day 1: Setting yourself up for reproducibility
 

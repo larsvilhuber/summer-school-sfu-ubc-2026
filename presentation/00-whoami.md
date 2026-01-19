@@ -5,7 +5,7 @@
 ::::{.columns}
 ::: {.column width="50%"}
 
-![**Michael Stepner**](https://michaelstepner.com/img/mstepner-400px.jpg)
+![**Marie Connolly**](images/Connolly_Marie_small.jpg)
 
 :::
 ::: {.column width="50%"}
@@ -15,18 +15,18 @@
 :::
 ::::
 
-## Michael Stepner {.smaller}
+## Marie Connolly {.smaller}
 
 
 ::::{.columns}
 ::: {.column width="50%"}
 
-Assistant professor at the [University of Toronto](https://economics.utoronto.ca/) and a Research Principal at [Opportunity Insights](https://opportunityinsights.org/), a lab based at Harvard University.
+Marie Connolly is full professor at the Department of Economics, University of Quebec in Montreal's School of Management (ESG UQAM). Her research is primarily empirical and touches upon various topics in labor economics, such as intergenerational income mobility, the formation of human capital, the gender and family gap, women’s labor force participation and the evaluation of public policy. She currently serves as the Data Editor of the Canadian Journal of Economics.
+
 
 :::
 ::: {.column width="50%"}
 
-![Opportunity Atlas](images/opportunityAtlas.png)
 
 :::
 
