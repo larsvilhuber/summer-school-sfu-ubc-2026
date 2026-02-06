@@ -318,5 +318,5 @@ global programs   "$project/code"       // All programs (which you might "includ
 # Tomorrow
 
 
-```{r, child=c('toc2.md')}
+```{r, child=c('toc.md')}
 ```

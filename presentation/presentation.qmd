@@ -77,7 +77,7 @@ WEBSITE_SHORT <- paste0(GITHUB_REPOSITORY_PARTS[1], ".github.io/", GITHUB_REPOSI
 
 ## Tomorrow
 
-```{r, child=c(here::here('toc2.md'))}
+```{r, child=c(here::here('toc.md'))}
 ```
 
 ```{r, child=c(here::here("presentation",'01-goal.md'))}

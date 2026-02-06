@@ -35,7 +35,7 @@ date: "`r Sys.Date()`"
 # Day 2
 
 
-```{r, child=c('toc2.md')}
+```{r, child=c('toc.md')}
 ```
 
 ## Détails {.smaller}

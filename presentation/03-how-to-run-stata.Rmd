@@ -290,5 +290,5 @@ When debugging is complete, you can uncomment all programs in the master and mak
 > Consider how much time a complete run would take before you run everything one last time. If it would take too long, you may want to skip a complete run, but ensure that you have log files for all partial runs. Make a note of this in the report.
 
 
-```{r, child=c('toc2.md')}
+```{r, child=c('toc.md')}
 ```

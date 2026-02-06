@@ -98,7 +98,7 @@ plot(code)
 ## Day 2
 
 
-```{r, child=c(here::here('toc2.md'))}	
+```{r, child=c(here::here('toc.md'))}	
 ```
 
 

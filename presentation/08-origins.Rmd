@@ -6,7 +6,7 @@ author:
 date: "`r Sys.Date()`"
 ---
   
-```{r, child=c('toc2.md')}
+```{r, child=c('toc.md')}
 ```
 
 # Where does the analysis data come from?
@@ -37,5 +37,5 @@ date: "`r Sys.Date()`"
 # Next
 
 
-```{r, child=c('toc2.md')}
+```{r, child=c('toc.md')}
 ```
