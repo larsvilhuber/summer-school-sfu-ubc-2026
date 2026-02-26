@@ -71,10 +71,16 @@ Location: TBD
 
 Registration required, see [registration link] (coming).
 
-*Sponsored by [Sloan Foundation]()*, part of the [Canadian Economics Association meetings pre-program](https://www.economics.ca/cea2026).
+*Sponsored by [Alfred P. Sloan Foundation](https://sloan.org/grant-detail/g-2023-22326) grant to Cornell University (Lars Vilhuber)* and by the *Research Chair in Intergenerational Economics, ESG UQAM* (Marie Connolly). Part of the [Canadian Economics Association meetings pre-program](https://www.economics.ca/cea2026).
 
+::: {#fig-logos layout-ncol=3}
 
-<img height="50px" src="https://www.economics.ca/resources/Pictures/full_logo_with_wordmark_II.svg" alt="CEA logo" />
+![](images/ILR_Cornell_Lockup_Black.png){height=50px fig-alt="ILR Cornell logo"}
+![](images/Sloan-Logo-primary-blac-web.png){height=50px fig-alt="Sloan logo"}
+![](images/esg-grem.png){height=50px fig-alt="UQAM logo"}
+:::
+
+![](https://www.economics.ca/resources/Pictures/full_logo_with_wordmark_II.svg){height=50px fig-alt="CEA logo"}
 
 ## Follow along
 
