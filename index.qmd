@@ -82,8 +82,8 @@ Registration required, see [registration link] (coming).
 ![](images/esg-grem.png){height=50px fig-alt="UQAM logo"}
 
 :::
-
-![](https://www.economics.ca/resources/Pictures/full_logo_with_wordmark_II.svg){height=50px fig-alt="CEA logo"}
+<!-- 
+![](https://www.economics.ca/resources/Pictures/full_logo_with_wordmark_II.svg){height=50px fig-alt="CEA logo"} -->
 
 ## Follow along
 
