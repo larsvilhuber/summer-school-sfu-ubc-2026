@@ -67,9 +67,9 @@ if (!dir.exists(here::here("data"))) {
 - Part 1: May 28, 2026 (9:00  to 12:00 ) 
 - Part 2: May 28, 2026 (12:30 to 15:00 )
 
-Location: TBD
+Location: SFU Harbour Centre, 515 West Hastings Street, room 2945 McLean Management Studies Lab (located on the second floor)
 
-Registration required, see [registration link] (coming).
+Registration required (see [registration link](https://www.economics.ca/CEA2026)).
 
 *Sponsored by [Alfred P. Sloan Foundation](https://sloan.org/grant-detail/g-2023-22326) grant to Cornell University (Lars Vilhuber)* and by the *Research Chair in Intergenerational Economics, ESG UQAM* (Marie Connolly). Part of the [Canadian Economics Association meetings pre-program](https://www.economics.ca/cea2026).
 
