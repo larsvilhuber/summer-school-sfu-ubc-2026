@@ -5,12 +5,12 @@
 ::::{.columns}
 ::: {.column width="50%"}
 
-![**Marie Connolly**](images/Connolly_Marie_small.jpg)
+![**Marie Connolly**](images/Connolly_Marie_small.jpg){height=400px}
 
 :::
 ::: {.column width="50%"}
 
-![**Lars Vilhuber**](images/lv39-2014.jpg)
+![**Lars Vilhuber**](images/lv39-2014.jpg){height=400px}
 
 :::
 ::::
