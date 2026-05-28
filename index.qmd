@@ -52,6 +52,8 @@ QUALTRICS_DAY2 <- "SV_cNkhKL69K2Ob7o2"
 
 # Time when this was posted (discard anything before that)
 
+QUALTRICS_DAY1_OTIME <- ymd_hms("2026-04-30 23:59:00")
+QUALTRICS_DAY1_STIME <- ymd_hms("2026-05-29 23:59:00")
 QUALTRICS_DAY2_STIME <- ymd_hms("2026-04-30 23:59:00")
 QUALTRICS_DAY2_ETIME <- ymd_hms("2026-05-29 23:59:00")
 
@@ -102,6 +104,52 @@ plot(code)
 ```{r, child=c(here::here('toc.md'))}	
 ```
 
+## Knowledge
+
+We want to get to know you a bit better, so we can adapt this and future workshops to your needs. If you haven't done so already, please do fill out this short survey.
+
+:::::: {.columns}
+::: {.column}
+
+<`r file.path(QUALTRICS_FULL_URL,QUALTRICS_DAY1)`>
+
+:::
+::: {.column}
+
+```{r qrcode2}
+#| echo: false
+
+code2 <- qr_code(file.path(QUALTRICS_FULL_URL,QUALTRICS_DAY1))
+plot(code2)
+
+```
+
+:::
+::::::
+
+
+### Results
+
+
+*Last updated: `r format(Sys.time(), "%d %B %Y, %H:%M")`*
+
+> All responses between `r format(QUALTRICS_DAY1_STIME, "%d %B %Y")` and `r format(QUALTRICS_DAY1_ETIME, "%d %B %Y")`.
+
+```{r downloaddata, child=c(here::here('pieces','01_downloaddata.Rmd'))}
+```
+
+```{r education, child=c(here::here('pieces','02_table_education.Rmd'))}
+```
+
+```{r os, child=c(here::here('pieces','02_table_os.Rmd'))}
+```
+
+
+```{r lang, child=c(here::here('pieces','02_table_lang.Rmd'))}
+```
+
+```{r cmdline, child=c(here::here('pieces','02_table_cmdline.Rmd'))}
+```
 
 
 
