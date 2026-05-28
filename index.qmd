@@ -46,6 +46,9 @@ WEBSITE_URL <- paste0("https://", GITHUB_REPOSITORY_PARTS[1], ".github.io/", GIT
 
 QUALTRICS_FULL_URL <- "https://cornell.yul1.qualtrics.com/jfe/form"
 
+QUALTRICS_DAY1 <- "SV_bBqbJ9cSSJdOBw2"
+
+
 # Public Qualtrics URL for day 2
 
 QUALTRICS_DAY2 <- "SV_cNkhKL69K2Ob7o2"
