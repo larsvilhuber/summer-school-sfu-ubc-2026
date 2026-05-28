@@ -136,7 +136,7 @@ plot(code2)
 
 *Last updated: `r format(Sys.time(), "%d %B %Y, %H:%M")`*
 
-> All responses between `r format(QUALTRICS_DAY1_STIME, "%d %B %Y")` and `r format(QUALTRICS_DAY1_ETIME, "%d %B %Y")`.
+> All responses between `r format(QUALTRICS_DAY1_STIME, "%d %B %Y")` and `r format(QUALTRICS_DAY2_ETIME, "%d %B %Y")`.
 
 ```{r downloaddata, child=c(here::here('pieces','01_downloaddata.Rmd'))}
 ```
