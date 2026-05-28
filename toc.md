@@ -2,7 +2,7 @@
 - 9:05 [Walkthrough](presentation/presentation.html#/walkthrough-of-the-agenda)
 - 9:15 [Goals](presentation/presentation.html#/goals)
 - 9:30 Technical setup, possible team formation
-- 9:45 🔒*[Hands-on Exercise: A very imperfect example]()*
+- 9:45 🔒*[Hands-on Exercise: A very imperfect example](https://github.com/labordynamicsinstitute/very-imperfect-example)*
 - 10:00 [Discussion](/presentation/day2.html) of the "Very imperfect example"
 - 10:30 Break (15 minutes)
 - 10:45 **Day 1**: 
